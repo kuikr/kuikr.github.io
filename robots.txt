@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kuikr.github.io/EvC/sitemap.EvC.gz
